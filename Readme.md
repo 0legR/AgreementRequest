@@ -1,7 +1,7 @@
-###Example how to serve agreement request using Laravel framework
-Let's assume some authorized user wishes to pay for some Course on our project.
-User cames to page with Course, chose payment form and pushed the button 'Pay for Course'.
-The next events happen:
+#Example how to serve agreement request using Laravel framework
+_Let's assume some authorized user wishes to pay for some Course on our project._
+_User cames to page with Course, chose payment form and pushed the button 'Pay for Course'._
+__The next events happen:__
 1. The request comes to route "./routes/api.php"
 	with url https://localhost.com/cabinet/agreement/requests (post method)
 	with request params $agreementRequest = [
