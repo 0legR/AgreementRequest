@@ -1,5 +1,4 @@
-#Example how to serve agreement request using Laravel framework
-<hr>
+#Example how to serve agreement request using Laravel framework<br>
 _Let's assume some authorized user wishes to pay for some Course on our project._
 _User cames to page with Course, chose payment form and pushed the button 'Pay for Course'._
 __The next events happen:__
